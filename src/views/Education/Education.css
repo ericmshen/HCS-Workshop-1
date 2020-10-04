@@ -1,8 +1,8 @@
-.experience-background {
+.education-background {
   display: flex;
 }
 
-.experiences-title {
+.education-title {
   text-align: center;
   font-size: 18px;
 }
@@ -22,6 +22,7 @@
   cursor: pointer;
   transition: all 0.2s ease;
   border-radius: 20px;
+  text-align: left;
 }
 
 .timeline-item:hover {
@@ -37,13 +38,14 @@
   background: lightblue;
 }
 
-.experience-info {
+.education-info {
   padding: 24px;
   font-size: 16pt;
   color: #555;
+  text-align: center;
 }
 
-.experience-info h4,
+.education-info h4,
 p {
   margin: 0;
 }
@@ -61,6 +63,7 @@ p {
   align-items: center;
   margin: 32px;
   border-radius: 20px;
+  padding: 10px;
 }
 
 .highlight-background h1,

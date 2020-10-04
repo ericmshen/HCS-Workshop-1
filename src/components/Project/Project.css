@@ -10,9 +10,9 @@
 }
 
 .project-background:hover {
-  transform: translateX(8px);
-  color: #480952;
-  background-image: linear-gradient(to left, white, #fffff0);
+  transform: scale(1.05);
+  color: #151f6e;
+  background-image: linear-gradient(to left, white, #fff0cc);
 }
 
 .project-image {
