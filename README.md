@@ -9,7 +9,9 @@ A simple button provides some more information on the About page, and also count
 ![About section with extra text hidden][pic1]
 ![About section with extra text revealed][pic2]
 
-### Added Feature #2
+<img src="https://i.imgur.com/u3s4o8j.png" width="100">
+
+### Education
 
 An Education section provides a list of attended schools, and upon selecting a specific school, more information is displayed at left. The design of this is very similar to the Experiences section, but with a few more props and the layout of the page slightly changed.
 
