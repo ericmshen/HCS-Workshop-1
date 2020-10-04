@@ -19,7 +19,7 @@ An Education section provides a list of attended schools, and upon selecting a s
 ### Other notes
 A simple footer is appended to the bottom of every page, and the top navbar has been somewhat expanded. There are also small styling changes.
 
-[pic1]: https://imgur.com/a/dyH2CeC "About section with extra text hidden"
-[pic2]: https://imgur.com/a/OcVT6qf "About section with extra text revealed"
-[pic3]: https://imgur.com/a/WljMn7q "Education section without items selected"
-[pic4]: https://imgur.com/a/wkQKnx2 "Education section with one item selected"
+[pic1]: https://i.imgur.com/u3s4o8j.png "About section with extra text hidden"
+[pic2]: https://i.imgur.com/BIjDNVz.png "About section with extra text revealed"
+[pic3]: https://i.imgur.com/72nTlNv.png "Education section without items selected"
+[pic4]: https://i.imgur.com/9nTc2Pe.png "Education section with one item selected"
